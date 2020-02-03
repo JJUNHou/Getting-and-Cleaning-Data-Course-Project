@@ -6,4 +6,6 @@
 
 #### Second, you can easily find 'tidy data' in the folder 'RESULTS'. There are 68 variables and 180 obs in tidy data set with the average of each variable for each activity and each subject. There are 6 activities and 30 subjects both of which make 180 obs of tidy data.
 
+#### Third, All of datasets are in the 'UCI HAR Dataset'.
+
 #### So thank you for grading my job. I hope to all of us pass this course.
